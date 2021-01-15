@@ -6,14 +6,14 @@ How to run:
 
 Open the folder inside terminal
 
-php -S <ip address>:<port>
+php -S (ip address):(port)
 
 Go to the web browser.
 Enter the following in the address bar:
 
-https://<ip address>:<port>/create.php
+https://(ip address):(port)/create.php
 then,
-https://<ip address>:<port>/form.html
+https://(ip address):(port)/form.html
 
-where <ip address> is your local ip address and, <port> is the port number.
+where (ip address) is your local ip address, and (port) is the port number.
 
